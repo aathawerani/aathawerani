@@ -19,6 +19,7 @@
 📫 **How to reach me:**
 - **Email:** mailto:athawerani@gmail.com
 - **LinkedIn:** https://linkedin.com/in/aaht14
+- **Portfolio:** https://aathawerani.github.io
 
 ---
 
