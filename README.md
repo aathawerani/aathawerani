@@ -17,7 +17,7 @@
 - I’m available for providing software consultancy services. If your team is struggling with architecture decisions or coding skills needs to improve then I can help with it, feel free to reach out!
 
 📫 **How to reach me:**
-- **Email:** [athawerani@gmail.com]mailto:athawerani@gmail.com
+- **Email:** mailto:athawerani@gmail.com
 - **LinkedIn:** https://linkedin.com/in/aaht14
 
 ---
