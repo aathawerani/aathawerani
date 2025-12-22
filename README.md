@@ -8,12 +8,12 @@ My work focuses on engineering excellence, predictable delivery, and creating re
 ## 🚀 What I Do
 
 ### **Fintech & Platforms**
-- Payment gateways, escrow flows, and merchant onboarding  
+- ATM, switch, middle-ware, POS, ISO 8583, ISO 20022, mobile and internet banking  
 - Secure transaction pipelines and compliance-driven architectures  
 - Distributed authentication and high-availability system design  
 
 ### **Architecture & Engineering**
-- Scalable backend platforms (Python/Django, C++, Node)  
+- Scalable backend platforms (C++, .Net, Java)  
 - System design, integration patterns, and performance optimization  
 - Kubernetes, Docker, microservices & modular monolith approaches  
 
