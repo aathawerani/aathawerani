@@ -51,8 +51,8 @@ My work focuses on engineering excellence, predictable delivery, and creating re
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** *(add your link)*  
-- **Email:** *(optional)*  
+- **LinkedIn:** *[(add your link)](https://www.linkedin.com/in/aaht14/)*  
+- **Email:** *athawerani@gmail.com*  
 
 ---
 
