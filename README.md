@@ -1,43 +1,59 @@
-# Hi there 👋, I'm Ali Ahmed Thawerani
+# 👋 Hi, I'm Ali — Technology Leader & Fintech Architect
 
-### Tech Enthusiast
-
----
-
-🔭 **What I do:**
-- I specialize in C/C++ / .NET backend technologies with a focus on FinTech.
-- I help clients with translating their business requirements into products, delivering high-quality results that drive business success.
-- I am passionate about contributing to open-source projects and continuously learning new technologies.
-
-🌱 **Currently Learning:**
-- Exploring advanced concepts in front-end: ReactJS / Angular, back-end: Java Spring Boot, mobile applications: Flutter / React Native.
-- Enhancing my knowledge in different software architectures.
-
-💼 **Open for consultancy / training:**
-- I’m available for providing software consultancy services. If your team is struggling with architecture decisions or coding skills needs to improve then I can help with it, feel free to reach out!
-
-📫 **How to reach me:**
-- **Email:** mailto:athawerani@gmail.com
-- **LinkedIn:** https://linkedin.com/in/aaht14
-- **Portfolio:** https://aathawerani.github.io
+I design and build secure fintech platforms, scalable backend systems, and mature DevSecOps environments.  
+My work focuses on engineering excellence, predictable delivery, and creating resilient, compliant digital products.
 
 ---
 
-### 🛠️ **Tech Stack:**
-- **Languages:** C/C++, C#
-- **Frameworks/Libraries:** .NET
-- **Tools:** Visual Studio 2022, VS Code
+## 🚀 What I Do
 
-### 🏆 **Achievements:**
-- Worked with clients from US, Austrailia, MENA regtion.
+### **Fintech & Platforms**
+- Payment gateways, escrow flows, and merchant onboarding  
+- Secure transaction pipelines and compliance-driven architectures  
+- Distributed authentication and high-availability system design  
 
-### 📈 **GitHub Stats:**
+### **Architecture & Engineering**
+- Scalable backend platforms (Python/Django, C++, Node)  
+- System design, integration patterns, and performance optimization  
+- Kubernetes, Docker, microservices & modular monolith approaches  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aathawerani&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aathawerani&layout=compact&theme=radical)
+### **DevSecOps & Delivery**
+- CI/CD automation (Jenkins, GitLab CI, GitHub Actions)  
+- SAST/DAST automation, OWASP ZAP, IaC & GitOps  
+- SDLC design, engineering governance, and delivery maturity  
 
 ---
 
-**Fun Fact:** I started coding when I was very young and you may not even have heard of G.W. Basic and LOGO
+## 🧭 My Engineering Principles
+- **Security-first design** — especially in regulated fintech environments  
+- **Scalability through simplicity** — clear patterns, predictable behavior  
+- **DevSecOps as culture** — automation, transparency, continuous improvement  
+- **Documentation & clarity** — strong engineering standards and governance  
 
-Thanks for visiting my profile! 😊
+---
+
+## 📘 Current Focus
+- Building secure fintech gateway and escrow systems  
+- Improving DevSecOps maturity for predictable delivery  
+- Architecture patterns for multi-node authentication and scaling  
+- Engineering playbooks, SDLC frameworks, and platform governance  
+
+---
+
+## 🛠️ Tech Stack (High-Level)
+**Languages:** Python, C++, JavaScript/TypeScript  
+**Backend:** Django, FastAPI, Node.js  
+**Frontend:** React, Next.js  
+**DevOps:** Docker, Kubernetes, Jenkins, GitLab CI/CD  
+**Security:** ZAP, SAST/DAST, secrets mgmt, secure coding practices  
+**Cloud/Infra:** Linux, Nginx, Ansible, IaC, GitOps  
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** *(add your link)*  
+- **Email:** *(optional)*  
+
+---
+
+⭐ *I believe great engineering is a blend of strong architecture, disciplined delivery, and a culture where teams thrive.*  
