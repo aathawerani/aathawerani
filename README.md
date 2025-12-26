@@ -1,19 +1,20 @@
-# 👋 Hi, I'm Ali — Technology Leader & Fintech Architect
+# 👋 Hi, I'm Ali — Technology Leader & Architect
 
-I design and build secure fintech platforms, scalable backend systems, and mature DevSecOps environments.  
+I design and build secure platforms, scalable backend systems, and mature DevSecOps environments.  
 My work focuses on engineering excellence, predictable delivery, and creating resilient, compliant digital products.
 
 ---
 
 ## 🚀 What I Do
 
-### **Fintech & Platforms**
+### **Platforms**
 - ATM, switch, middle-ware, POS, ISO 8583, ISO 20022, mobile and internet banking  
 - Secure transaction pipelines and compliance-driven architectures  
 - Distributed authentication and high-availability system design  
 
 ### **Architecture & Engineering**
-- Scalable backend platforms (C++, .Net, Java)  
+- Scalable backend platforms (C++, .Net, Java)
+- Mobile & web applications (Java, .Net, React Native, Kotlin, Flutter)
 - System design, integration patterns, and performance optimization  
 - Kubernetes, Docker, microservices & modular monolith approaches  
 
@@ -42,8 +43,8 @@ My work focuses on engineering excellence, predictable delivery, and creating re
 
 ## 🛠️ Tech Stack (High-Level)
 **Languages:** Python, C++, JavaScript/TypeScript  
-**Backend:** Django, FastAPI, Node.js  
-**Frontend:** React, Next.js  
+**Backend:** Java spring boot, Asp.net, Node JS  
+**Frontend:** React JS, Vaadin  
 **DevOps:** Docker, Kubernetes, Jenkins, GitLab CI/CD  
 **Security:** ZAP, SAST/DAST, secrets mgmt, secure coding practices  
 **Cloud/Infra:** Linux, Nginx, Ansible, IaC, GitOps  
