@@ -61,4 +61,4 @@ My work focuses on engineering excellence, predictable delivery, and creating re
 
 ![Your GitHub Stats](https://github-stats-extended.vercel.app/api?username=aathawerani&show_icons=true&theme=radial&count_private=true)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=aathawerani&layout=compact&theme=radial)
-![GitHub Streak](https://streak-stats.demolab.com?username=aathawerani&theme=radial)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aathawerani)](https://git.io/streak-stats)
