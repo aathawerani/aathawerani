@@ -58,3 +58,8 @@ My work focuses on engineering excellence, predictable delivery, and creating re
 ---
 
 ⭐ *I believe great engineering is a blend of strong architecture, disciplined delivery, and a culture where teams thrive.*  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aathawerani&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aathawerani&layout=compact&theme=radial)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aathawerani&show_icons=true&count_private=true&theme=radial)
+
